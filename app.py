@@ -28,8 +28,9 @@ def generate_card(time_control):
 
 app = Flask(__name__)
 
-@app.route("/<time_control>")
-def handle_all(time_control):
+@app.route("/")
+def handle_all():
+    time_control = os.getenv("time_control")
     svg = generate_card(time_control)
     resp = Response(svg, mimetype="image/svg+xml")
     resp.headers["Cache-Control"] = "s-maxage=1"        
