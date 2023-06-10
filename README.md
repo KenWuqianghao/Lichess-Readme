@@ -1,4 +1,4 @@
-# lichess-readme
+# Lichess-Readme
 
 <div align="center">
 <h1 align="center">
