@@ -6,7 +6,7 @@
 <br>
 lichess-readme
 </h1>
-<h3 align="center">📍 Unlock Your Chess Potential - Make the Most of lichess-readme!</h3>
+<h3 align="center">📍 Show off Your Chess Skill - Make the Most of lichess!</h3>
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
 
@@ -37,11 +37,11 @@ lichess-readme
 
 ## 📍Overview
 
-Lichess-readme is a GitHub project designed to help authors of GitHub repositories easily create and maintain a README.md on their repository. It provides a template based on the lic
+Lichess-readme is a GitHub project designed to help authors of GitHub repositories easily create lichess elo rating badges on their github readme page. 
 
 ## 🔮 Feautres
 
-> `[📌  INSERT-PROJECT-FEATURES]`
+> `Display your lichess rating as badges in github readme page`
 
 ---
 
@@ -92,44 +92,23 @@ repo
 ### ✅ Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed:
-> `[📌  INSERT-PROJECT-PREREQUISITES]`
+> `Register a Vercel account`
 
 ### 💻 Installation
 
-1. Clone the lichess-readme repository:
-```sh
-git clone https://github.com/KenWuqianghao/lichess-readme
-```
+1. Fork the lichess-readme repository:
 
-2. Change to the project directory:
-```sh
-cd lichess-readme
-```
+2. Go to vercel, create a project using the forked github repo
 
-3. Install the dependencies:
-```sh
-pip install -r requirements.txt
-```
+3. Provide environment variables including username and time_control
 
+4. deploy and enjoy
+5. 
 ### 🤖 Using lichess-readme
 
 ```sh
-python main.py
+<img src="link-to-your-vercel-app/?">
 ```
-
-### 🧪 Running Tests
-```sh
-#run tests
-```
-
-<hr />
-
-## 🛠 Future Development
-- [X] [📌  COMPLETED-TASK]
-- [ ] [📌  INSERT-TASK]
-- [ ] [📌  INSERT-TASK]
-
-
 ---
 
 ## 🤝 Contributing
@@ -157,14 +136,6 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ## 🪪 License
 
-This project is licensed under the `[📌  INSERT-LICENSE-TYPE]` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
+This project is licensed under the `MIT` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
 
 ---
-
-## 🙏 Acknowledgments
-
-[📌  INSERT-DESCRIPTION]
-
-
----
-
