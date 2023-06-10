@@ -100,7 +100,7 @@ Before you begin, ensure that you have the following prerequisites installed:
 
 2. Go to vercel, create a project using the forked github repo
 
-3. Provide environment variables including username and time_control
+3. Provide environment variables including username and time_control, time_control options are bullet, blitz and rapid.
 
 4. deploy and enjoy
 
