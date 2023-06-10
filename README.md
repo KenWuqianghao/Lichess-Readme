@@ -23,25 +23,16 @@ lichess-readme
 ## 📚 Table of Contents
 - [📚 Table of Contents](#-table-of-contents)
 - [📍Overview](#-introdcution)
-- [🔮 Features](#-features)
 - [⚙️ Project Structure](#project-structure)
 - [🧩 Modules](#modules)
 - [🏎💨 Getting Started](#-getting-started)
-- [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [🪪 License](#-license)
-- [📫 Contact](#-contact)
-- [🙏 Acknowledgments](#-acknowledgments)
-
 ---
 
 ## 📍Overview
 
 Lichess-readme is a GitHub project designed to help authors of GitHub repositories easily create lichess elo rating badges on their github readme page. 
-
-## 🔮 Feautres
-
-> `Display your lichess rating as badges in github readme page`
 
 ---
 
@@ -97,10 +88,14 @@ Before you begin, ensure that you have the following prerequisites installed:
 ### 💻 Installation
 
 1. Fork the lichess-readme repository:
+<img width="149" alt="Screenshot 2023-06-10 at 04 41 18" src="https://github.com/KenWuqianghao/Lichess-Readme/assets/20444505/e62cc33f-c7d6-4937-8923-6d66da49647b">
 
 2. Go to vercel, create a project using the forked github repo
+<img width="1512" alt="Screenshot 2023-06-10 at 04 41 30" src="https://github.com/KenWuqianghao/Lichess-Readme/assets/20444505/56fdad6f-16a1-4394-b788-2c62f3687f2e">
+<img width="1512" alt="Screenshot 2023-06-10 at 04 41 41" src="https://github.com/KenWuqianghao/Lichess-Readme/assets/20444505/89b80e19-0c67-4815-96c2-ef00015a7b8a">
 
 3. Provide environment variables including username and time_control, time_control options are bullet, blitz and rapid.
+<img width="1512" alt="Screenshot 2023-06-10 at 04 42 08" src="https://github.com/KenWuqianghao/Lichess-Readme/assets/20444505/e6bb786e-2954-41db-8bee-a3943d6f5f29">
 
 4. Deploy and enjoy
 
