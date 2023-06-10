@@ -103,7 +103,7 @@ Before you begin, ensure that you have the following prerequisites installed:
 3. Provide environment variables including username and time_control
 
 4. deploy and enjoy
-5. 
+
 ### 🤖 Using lichess-readme
 
 ```sh
